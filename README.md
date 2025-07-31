@@ -9,6 +9,10 @@ The architecture is shown as follows:
 
 
 ## 🚀 Main Results
+![Overview](./figs/Overview.jpg "Overview of our Method")
+![adaptor](./figs/adaptor.jpg "Our Adaptor")
+![FIFM](./figs/FIFM.jpg "FIFM")
+We propose a novel framework featuring two key innovations: the Frequency-Division Filtering (FIFM) module—the first task-aware feature decoupling mechanism operating in the frequency domain—and the Memory-Enhanced Adapter (IGA) with dynamic forgetting for temporal modeling. Comprehensive ablations systematically validate their synergistic effects: IGA achieves 200\% STRS improvement over frozen backbones, pyramid decoupling boosts F1-scores by 27\%, and FIFM emerges as the primary performance contributor. Ranked second in the MEGC 2025 STR Track, our solution delivers optimal spatiotemporal modeling efficiency with minimal parameters.
 
 ### :crescent_moon: MEGC 2025
 
