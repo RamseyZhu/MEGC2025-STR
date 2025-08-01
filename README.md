@@ -29,7 +29,7 @@ We propose a novel framework featuring two key innovations: the Frequency-Divisi
 ## :crescent_moon: MEGC 2025 Track STR Leaderboard
 
 <div align="center">
-  <img src="./figs/leaderboard.png" alt=""><br>
+  <img src="./figs/MEGC-STR-leaderboard.png" alt=""><br>
   <em>Fig 4：Leaderboard</em>
 </div>
 
